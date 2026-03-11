@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "backend",
+    "wasm_engine"
+]
+resolver = "2"
